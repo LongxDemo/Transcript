@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Transcribers V1.2",
+  "description": "",
+  "prompt": ""
+}
